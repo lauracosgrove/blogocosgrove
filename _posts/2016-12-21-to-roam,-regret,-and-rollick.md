@@ -3,7 +3,7 @@ layout: post
 title: to roam, regret, and rollick
 ---
 
-![IMG_0780]({{ site.baseurl }}/images/IMG_0780.jpg)
+![windowplane]({{ site.baseurl }}/images/windowplane.jpg)
 
 The state of transit can be profoundly sad to experience. One of dozens in a plane, I feel little and anonymous, barreling through the dramatic cloudly towers and parapets hung static. It’s like someone built a world, forgot about it, and left it there in the air for our jet-setting toddler-consciences to smash up. 
 
@@ -42,9 +42,9 @@ _Parader blowing a kiss at the West Indian American Day carnival, Brooklyn, fall
 ----
 ****
 
-![blurred sunset high up milpitas]({{ site.baseurl }}/images/blurred sunset high up milpitas.jpg)
+![sunset milpitas]({{ site.baseurl }}/images/sunset milpitas.jpg)
 _Blurred sunset on high, Milpitas, late fall 2016_
-![blurred sunset high up nyc]({{ site.baseurl }}/images/blurred sunset high up nyc.jpg)
+![sunset nyc]({{ site.baseurl }}/images/sunset nyc.jpg)
 _Blurred sunset from rooftop, after picking up my camera for the first time in a long time, Manhattan, late summer 2016_
 
 ----
