@@ -13,7 +13,7 @@ And it helps me, sometimes, to act the part of a surveyor of some grand intermin
 
 One of the ways in which I doubt I will change is in the shoehorning of bad punnish references in my self-indulgent writing. (I should be punished!)
 
-Anyway…here are some paired photographs of the places I’ve been, begun and ended. Organizing my photos, I noticed pairs who, placed together, make me feel something of a warm uncanniness. They remind me of the strange mix of personal constancy and change that is the project of living, through my eye as a picture-taker - the qualities of the things I have noticed enough to document - and (maybe) through the subjects and places themselves – in my mind as in the universe, let’s say, a much wilier quality. 
+Anyway…here are some paired photographs of the places I’ve been, begun and ended. Organizing my photos, I noticed pairs who, placed together, make me feel something of a warm uncanniness. They remind me of the strange mix of personal constancy and change that is the project of living, through my eye as a picture-taker – the qualities of the things I have noticed enough to document – and (maybe) through the subjects and places themselves – in my mind as in the universe, let’s say, a much wilier quality. 
 
 ----
 ****
