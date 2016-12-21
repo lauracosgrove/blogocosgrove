@@ -42,7 +42,7 @@ _Parader blowing a kiss at the West Indian American Day carnival, Brooklyn, fall
 ----
 ****
 
-![sunset milpitas]({{ site.baseurl }}/images/sunset_milpitas.jpg)
+![sunset_milpitas]({{ site.baseurl }}/images/sunset_milpitas.jpg)
 _Blurred sunset on high, Milpitas, late fall 2016_
-![sunset nyc]({{ site.baseurl }}/images/sunset_nyc.jpg)
+![sunset_nyc]({{ site.baseurl }}/images/sunset_nyc.jpg)
 _Blurred sunset from rooftop, after picking up my camera for the first time in a long time, Manhattan, late summer 2016_
