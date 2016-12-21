@@ -3,9 +3,9 @@ layout: post
 title: to roam, regret, and rollick
 ---
 
-![windowplane]({{ site.baseurl }}/images/windowplane.jpg)
-
 The state of transit can be profoundly sad to experience. One of dozens in a plane, I feel little and anonymous, barreling through the dramatic cloudly towers and parapets hung static. It’s like someone built a world, forgot about it, and left it there in the air for our jet-setting toddler-consciences to smash up. 
+
+![windowplane]({{ site.baseurl }}/images/windowplane.jpg)
 
 But I think the truer profundity, as close as I can guess it, happens when you arrive. It is self-affirming to get to know yourself in a new environment; it was like the early stages of falling in love, settling in after my displacement, to know for certain in which ways I would change and stay the same, to remember that there’s something going on inside my silly body that is separable from a roiling, inconstant world. 
 
@@ -18,34 +18,31 @@ Anyway…here are some paired photographs of the places I’ve been, begun and e
 ----
 ****
 
-![child san jose]({{ site.baseurl }}/images/child milpitas.jpg)
+![child san jose]({{ site.baseurl }}/images/child_milpitas.jpg)
 _Toddler showing me how good her popcorn is, in coffee shop, San Jose, summer 2013_
-![child philadelphia]({{ site.baseurl }}/images/child philadelphia.jpg)
+![child philadelphia]({{ site.baseurl }}/images/child_philadelphia.jpg)
 _Toddler caught in emotion unawares, outdoor concert, Philadelphia, also summer 2013_
 
 ----
 ****
 
-![greenmarket philadelphia]({{ site.baseurl }}/images/greenmarket philadelphia.jpg)
+![greenmarket philadelphia]({{ site.baseurl }}/images/greenmarket_philadelphia.jpg)
 _At a Saturday farmer’s market, Philadelphia, late August 2016_
-![greenmarket brooklyn]({{ site.baseurl }}/images/greenmarket brooklyn.jpg)
+![greenmarket brooklyn]({{ site.baseurl }}/images/greenmarket_brooklyn.jpg)
 _Saturday farmer’s market, Brooklyn, September 2016_
 
 ----
 ****
 
-![parader philadelphia]({{ site.baseurl }}/images/parader philadelphia.jpg)
+![parader philadelphia]({{ site.baseurl }}/images/parader_philadelphia.jpg)
 _Parader wiping out at the Kensington Kinetic Sculpture Derby, Philadelphia, summer 2013_
-![parader brooklyn]({{ site.baseurl }}/images/parader brooklyn.jpg)
+![parader brooklyn]({{ site.baseurl }}/images/parader_brooklyn.jpg)
 _Parader blowing a kiss at the West Indian American Day carnival, Brooklyn, fall 2016_
 
 ----
 ****
 
-![sunset milpitas]({{ site.baseurl }}/images/sunset milpitas.jpg)
+![sunset milpitas]({{ site.baseurl }}/images/sunset_milpitas.jpg)
 _Blurred sunset on high, Milpitas, late fall 2016_
-![sunset nyc]({{ site.baseurl }}/images/sunset nyc.jpg)
+![sunset nyc]({{ site.baseurl }}/images/sunset_nyc.jpg)
 _Blurred sunset from rooftop, after picking up my camera for the first time in a long time, Manhattan, late summer 2016_
-
-----
-****
